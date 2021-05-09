@@ -1,1 +1,2 @@
-A flake for obs-ndi
+License override flake for ndi in Nixpkgs
+
